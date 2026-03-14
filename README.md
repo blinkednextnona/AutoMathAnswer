@@ -27,7 +27,7 @@ Built with **Clean UI**, a custom minimal UI library.
 ```
 MathAnswerBot/
 ├── README.md              ← You are here
-├── main.lua               ← Full single-file script (paste this into executor)
+├── main.lua               ← Full single-file script
 └── src/
     ├── config.lua          ← Colors, sizes, fonts, keybinds
     ├── utility.lua         ← Tween, Create, AddCorner helpers
@@ -96,9 +96,9 @@ If your game uses different paths, edit `FindQuestionLabel()` and `FindAnswerBox
 |---------|-----------|--------|------|--------|-------------|
 | GUI | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Math Parser | ✅ | ✅ | ✅ | ✅ | ✅ |
-| VirtualInputManager | ✅ | ✅ | ⚠️ | ⚠️ | ✅ |
-| firesignal | ✅ | ✅ | ✅ | ❌ | ✅ |
-| gethui | ✅ | ✅ | ✅ | ❌ | ✅ |
+| VirtualInputManager | ✅ | ✅ | ⚠️ | ✅ | ✅ |
+| firesignal | ✅ | ✅ | ✅ | ❔ | ✅ |
+| gethui | ✅ | ✅ | ✅ | ❔ | ✅ |
 
 The script tries multiple input methods automatically — if one fails, it falls back to the next.
 
