@@ -39,7 +39,7 @@ local CONFIG = {
     FontMedium        = Enum.Font.GothamMedium,
     FontRegular       = Enum.Font.Gotham,
     ToggleKey         = Enum.KeyCode.RightShift,
-    Title             = "CLEAN UI",
+    Title             = "Auto Math Answer",
     Subtitle          = "Auto Answer",
 }
 
