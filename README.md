@@ -107,3 +107,10 @@ The script tries multiple input methods automatically — if one fails, it falls
 ## 📜 License
 
 Do whatever you want with it. No license, no restrictions.
+
+## Loader
+Find the loader for the script here:
+
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blinkednextnona/AutoMathAnswer/main/main.lua"))()
+```
